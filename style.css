@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.card__box{
+            width: 500px;
+            height: 480px;
+            background: whitesmoke;
+            margin-left: 550px;
+            margin-top: 150px;
+            border-radius: 20px;
+}
+.card__img{
+            width: 500px; 
+            height: 250px;
+            margin-top: 4px;
+            border-radius: 40px;
+            padding: 15px;
+            
+}
+.card__title{
+              margin-left: 25px;
+              font-weight: 900;
+}
+.card__title a{
+                text-decoration: none;
+                color: blue;
+}
+.card__date{
+             margin-left: 25px;
+             margin-top: 15px;
+             color: dodgerblue;
+}
+.card__word{
+             margin-left: 25px;
+             margin-top: 20px;
+             color: rgb(137, 182, 226);
+}
+.card__the-word{
+                 margin-top: 50px;
+                 margin-left: 25px;
+                 color: blue;
+}
